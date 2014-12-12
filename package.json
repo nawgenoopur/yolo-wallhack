@@ -1,0 +1,18 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "zettamine",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^0.8.0",
+    "forever": "^0.13.0",
+    "mongojs": "^0.18.0",
+    "morgan": "^1.5.0",
+    "restify": "^2.8.3"
+  }
+}
